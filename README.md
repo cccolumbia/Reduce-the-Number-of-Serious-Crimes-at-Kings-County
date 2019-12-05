@@ -1,7 +1,7 @@
 # Reduce-the-Number-of-Serious-Crimes-at-Kings-County
 
 ## Techniques used
-Basic EDA, data transformation, Correlation test and improvement, Quantiles, Interaction test and improvement, Tukey multiple comparison, ANOVA, Linear regression, Boxplot, Histogram.
+Basic EDA, data transformation, Correlation test and improvement, Quantiles, Interaction test and improvement, Tukey multiple comparison, ANOVA, Stepwise regression, Linear regression, Boxplot, Histogram.
 
 ## Data Source  
 County demographic information (CDI) data set from Applied Linear Statistical Models, 5th edition, by Kutner, Nachtsheim, Neter, and Li., Appendix C2 (APPENC02.txt).   
